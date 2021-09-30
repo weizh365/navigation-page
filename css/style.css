@@ -3342,7 +3342,7 @@ body {
 }
 
 #logo img {
-	width: 141px
+	width: 140px
 }
 
 #logo h1 {
@@ -3652,9 +3652,22 @@ ul li a strong {
 
 #kg-btn {
 	position: absolute;
-	top: 50px;
-	right: 4%
+	top: 40px;
+	right: 6%
 }
+
+#kg-shouye {
+	position: absolute;
+	top: 40px;
+	left: 6%;
+	font-weight: 700; 
+	font-size: 24px;
+	border-radius: 4px;
+	width: 100px;
+}
+
+
+
 
 .tgl {
 	display: none
